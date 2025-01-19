@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configure xmlns:android=""
+    android:AndroidVersion="1.0" NotOfficial="true">
+
+    <application
+        android:Template="true"
+        android:FreeSourceCode="true">
+    </application>
+</configure>
