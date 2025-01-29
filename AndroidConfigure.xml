@@ -2,8 +2,7 @@
 <configure xmlns:android="https://github.com/an3010/XMLTemplateAndroid"
     android:AndroidVersion="1.0" NotOfficial="true">
 
-    <application
-        android:Template="true"
-        android:FreeSourceCode="true">
+    <application>
+        <!-- template -->
     </application>
 </configure>
